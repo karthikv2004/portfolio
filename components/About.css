@@ -1,0 +1,68 @@
+/* About Component Styles */
+.about-section {
+  padding: 60px 0;
+}
+
+.about-main-card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+.about-image-col {
+  position: relative;
+}
+
+.about-image-col img {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.floating-socials {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  gap: 15px;
+}
+
+.floating-socials a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 50%;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.floating-socials a:hover {
+  background: #000;
+  transform: scale(1.1);
+}
+
+.about-text-col h2 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  line-height: 1.3;
+}
+
+.about-text-col p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+  .about-main-card {
+    grid-template-columns: 1fr;
+  }
+}
