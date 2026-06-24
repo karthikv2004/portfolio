@@ -30,7 +30,7 @@ function Contact() {
             <div className="info-icon">📱</div>
             <div>
               <h4>Phone</h4>
-              <p>+91 7483916802</p>
+              <p>+91 9945650021</p>
             </div>
           </div>
 
@@ -43,8 +43,8 @@ function Contact() {
           </div>
 
           <div className="contact-socials">
-            <a href="https://github.com/sindums2004-droid" target="_blank" rel="noreferrer" className="social-link">GitHub</a>
-            <a href="https://www.linkedin.com/in/sindu-m-s" target="_blank" rel="noreferrer" className="social-link">LinkedIn</a>
+            <a href="https://github.com/karthikv2004" target="_blank" rel="noreferrer" className="social-link">GitHub</a>
+            <a href="https://www.linkedin.com/in/karthik-yadav-62b151414/" target="_blank" rel="noreferrer" className="social-link">LinkedIn</a>
           </div>
         </div>
 

@@ -9,8 +9,8 @@ function About() {
         <div className="about-image-col">
           <img src="/image.png" alt="KARTHIK V" />
           <div className="floating-socials">
-            <a href="https://github.com/sindums2004-droid" target="_blank" rel="noreferrer">GH</a>
-            <a href="https://www.linkedin.com/in/sindu-m-s" target="_blank" rel="noreferrer">IN</a>
+            <a href="https://github.com/karthikv2004" target="_blank" rel="noreferrer">GH</a>
+            <a href="https://www.linkedin.com/in/karthik-yadav-62b151414/" target="_blank" rel="noreferrer">IN</a>
           </div>
         </div>
 

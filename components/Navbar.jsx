@@ -51,7 +51,7 @@ function Navbar() {
           </ul>
 
           <a
-            href="https://github.com/sindums2004-droid"
+            href="https://github.com/karthikv2004"
             target="_blank"
             rel="noreferrer"
             className="btn-primary nav-cta"
