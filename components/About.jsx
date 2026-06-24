@@ -7,7 +7,7 @@ function About() {
       {/* Top Main Card - Matches the "I am Professional..." block */}
       <div className="about-main-card">
         <div className="about-image-col">
-          <img src="./public/image.png" alt="KARTHIK V" />
+          <img src="/public/image.png" alt="KARTHIK V" />
           <div className="floating-socials">
             <a href="https://github.com/sindums2004-droid" target="_blank" rel="noreferrer">GH</a>
             <a href="https://www.linkedin.com/in/sindu-m-s" target="_blank" rel="noreferrer">IN</a>
