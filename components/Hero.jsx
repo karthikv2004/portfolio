@@ -35,7 +35,7 @@ function Home() {
 
       <div className="hero-image-wrapper">
         <div className="hero-image-card">
-          <img src="./public/photo.jpeg" alt="KARTHIK V" />
+          <img src="/photo.jpeg" alt="KARTHIK V" />
         </div>
       </div>
     </section>
